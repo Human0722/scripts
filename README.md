@@ -1,0 +1,2 @@
+- cap.reg  在 Windows10 上将ESC 和 CAP LOCKS键位互换。（我也不知道怎么换回来）
+- dns.bat  在 windows10 上用 notepad 打开 hosts 文件。
